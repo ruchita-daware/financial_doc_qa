@@ -1,0 +1,8 @@
+streamlit
+requests
+PyMuPDF
+langchain
+faiss-cpu
+langchain-ollama
+
+## Windows 10+ , RAM= 8gb and Above
