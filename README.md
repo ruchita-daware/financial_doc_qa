@@ -30,11 +30,11 @@ Run the Streamlit app:
 
 streamlit run app.py
 
-Upload a financial PDF.
-Wait for embeddings to be created.
-Ask questions about the document in the input box.
-Get LLM-powered answers instantly.
-Example
-Enter your question: What is the revenue in 2024?
-Response: The revenue in 2024 is $5.6 million according to the uploaded PDF document.
+-Upload a financial PDF.
+-Wait for embeddings to be created.
+-Ask questions about the document in the input box.
+-Get LLM-powered answers instantly.
+-Example:
+-Enter your question: What is the revenue in 2024?
+-Response: The revenue in 2024 is $5.6 million according to the uploaded PDF document.
 
